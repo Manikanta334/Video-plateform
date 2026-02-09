@@ -1,0 +1,5 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "files.autoSave": "onWindowChange",
+    "editor.cursorSmoothCaretAnimation": "on"
+}
